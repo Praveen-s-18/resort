@@ -1,3 +1,11 @@
+# Resort Booking Website
+
+This is a responsive **Resort Booking Website** built with React. It allows users to search, filter, and book resorts with a seamless user experience. The website features resort listings, user authentication, and secure payment integration.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
